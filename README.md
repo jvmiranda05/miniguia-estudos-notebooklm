@@ -123,6 +123,40 @@ Foi gerado um resumo estruturado contendo conceitos como:
 
 Solicitar formatos específicos ajuda a obter respostas mais úteis.
 
+## Testes realizados no NotebookLM
+
+### Prompt 1
+
+**Pergunta utilizada:**
+
+"Explique Engenharia de Prompt para uma pessoa iniciante, utilizando exemplos práticos do dia a dia."
+
+**Resultado observado:**
+
+O NotebookLM apresentou uma explicação introdutória sobre Engenharia de Prompt, destacando a importância de criar instruções claras para obter melhores respostas da Inteligência Artificial.
+
+**Aprendizado:**
+
+Prompts com contexto e definição do público-alvo geram respostas mais adequadas.
+
+---
+
+### Prompt 2
+
+**Pergunta utilizada:**
+
+"Crie um resumo estruturado sobre Engenharia de Prompt com os principais conceitos, técnicas e exemplos práticos encontrados nas fontes."
+
+**Resultado observado:**
+
+A ferramenta organizou os conceitos presentes nas fontes, facilitando a revisão do conteúdo estudado.
+
+**Aprendizado:**
+
+Solicitar uma estrutura específica ajuda a transformar informações em um material de estudo mais organizado.
+
+
+
 ---
 
 # ⚠️ Dificuldades encontradas (Troubleshooting)
