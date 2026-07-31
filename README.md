@@ -143,4 +143,118 @@ Durante os testes, algumas dificuldades foram identificadas:
 - Solicitar formatos específicos (listas, tabelas ou resumos).
 - Pedir exemplos práticos.
 
+---
+
+# 📘 Miniguia de Estudos: Engenharia de Prompt
+
+## 1. O que é Engenharia de Prompt?
+
+Engenharia de Prompt é a prática de criar e aprimorar instruções dadas aos modelos de Inteligência Artificial para obter respostas mais claras, relevantes e eficientes.
+
+Um bom prompt funciona como uma orientação detalhada, informando à IA o objetivo, contexto e formato esperado da resposta.
+
+---
+
+# 2. Principais conceitos
+
+## Prompt
+
+É a instrução ou pergunta enviada para um modelo de Inteligência Artificial.
+
+Exemplo:
+
+"Explique o conceito de inteligência artificial para um estudante iniciante."
+
+---
+
+## Contexto
+
+São informações adicionais fornecidas para ajudar a IA a compreender melhor a tarefa.
+
+Exemplo:
+
+"Explique inteligência artificial considerando que o leitor nunca estudou tecnologia."
+
+---
+
+## Objetivo
+
+Define exatamente o resultado esperado.
+
+Exemplo:
+
+"Crie um resumo em cinco tópicos."
+
+---
+
+## Refinamento de Prompt
+
+É o processo de melhorar uma instrução após analisar a resposta recebida.
+
+Um prompt inicial pode ser ajustado adicionando:
+
+- Mais detalhes;
+- Exemplos;
+- Restrições;
+- Formato desejado.
+
+---
+
+## Modelo de Linguagem (LLM)
+
+São modelos de Inteligência Artificial treinados com grandes volumes de dados capazes de compreender e gerar textos.
+
+---
+
+# 📝 Glossário
+
+| Conceito | Definição |
+|---|---|
+| Prompt | Instrução enviada para a Inteligência Artificial |
+| Engenharia de Prompt | Técnica de criação e melhoria de comandos para IA |
+| Contexto | Informações adicionais que orientam a resposta |
+| LLM | Modelo de linguagem de grande escala |
+| IA Generativa | Tecnologia capaz de criar novos conteúdos |
+| Refinamento | Processo de melhorar um prompt após testes |
+
+---
+
+# 🚀 Prompts reutilizáveis
+
+## Para aprender um assunto
+
+"Explique [tema] como se eu fosse iniciante, utilizando exemplos simples e práticos."
+
+---
+
+## Para criar resumos
+
+"Faça um resumo estruturado sobre [tema], destacando os conceitos mais importantes."
+
+---
+
+## Para revisar conteúdos
+
+"Crie 10 perguntas de revisão sobre [tema] com respostas explicadas."
+
+---
+
+## Para comparar conceitos
+
+"Compare [conceito A] e [conceito B], mostrando diferenças, vantagens e exemplos de uso."
+
+---
+
+## Para criar um plano de estudos
+
+"Crie um plano de estudos de [tema] dividido por etapas, do nível iniciante ao avançado."
+
+---
+
+# 🎓 Conclusão
+
+O desenvolvimento deste caderno temático permitiu compreender que a qualidade das respostas geradas por Inteligência Artificial depende diretamente da qualidade das instruções fornecidas.
+
+A prática de Engenharia de Prompt envolve experimentação, análise dos resultados e melhoria contínua das perguntas feitas aos modelos de IA.
+
 
